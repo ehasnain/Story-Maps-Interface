@@ -1,4 +1,4 @@
-.btn-back {
+.btn-blue {
     display: inline-block;
     font-size: 80%;
     background-color: #216CBE;
@@ -9,7 +9,7 @@
 	box-shadow: 4px 4px 4px 0px rgba(0,0,0,0.3);
 }
 
-  .btn-back:hover {
+  .btn-blue:hover {
     background-color: #E04C1F;
     border-color: gray !important;
 }
